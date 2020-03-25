@@ -34,7 +34,7 @@
 						<environment>Sandbox</environment>
 						<applicationName>${name}</applicationName>
 						<businessGroup>Personal</businessGroup>
-						<workerType>MICRO</workerType>
+						<workerType>Medium</workerType>
 						<properties>
 							<env>dev</env>
 						</properties>
