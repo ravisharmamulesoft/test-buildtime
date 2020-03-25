@@ -28,7 +28,7 @@
 				<configuration>
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
-						<muleVersion>4.2.2</muleVersion>
+						<muleVersion>4.1.5</muleVersion>
 						<username>ravi_personal</username>
 						<password>MSecure!23</password>
 						<environment>Sandbox</environment>
