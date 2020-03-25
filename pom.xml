@@ -33,7 +33,6 @@
 						<password>MSecure!23</password>
 						<environment>Sandbox</environment>
 						<applicationName>${name}</applicationName>
-						<workerType>MICRO</workerType>
 						<businessGroup>Personal</businessGroup>
 						<properties>
 							<env>dev</env>
